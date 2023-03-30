@@ -2,7 +2,7 @@
 - 👀 I’m interested to learn about new Technology
 - 🌱 I’m currently learning Android Development, DSA, UI/UX for Android
 - 💞️ I’m looking to collaborate with tech enthusiast, who believe in to grow together 
-- 📫 How to reach me , email id :- 0126cs201127@oriental.ac.in
+- 📫 How to reach me , email id :- vk692896@gmail.com
 
 <!---
 V1vek1/V1vek1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
